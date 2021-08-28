@@ -113,7 +113,3 @@ function addFilterToScreen(filter) {
 navigator.mediaDevices.enumerateDevices().then(function (devices) {
     console.log(devices);
 })
-
-else{
-    
-}
