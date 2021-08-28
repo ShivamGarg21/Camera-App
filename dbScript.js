@@ -5,7 +5,7 @@ request.onsuccess = function(e) {
     console.log(db);
     let note = {
         nId: "jfbuverufv",
-        txt: "hello i am bhavesh"
+        txt: "hello i am Shivam"
     }
     
     let tx = db.transaction("gallery", "readwrite");
